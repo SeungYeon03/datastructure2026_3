@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\ser00\source\repos\Lec11.AdjMatGraph\Lec11.AdjMatGraph\AdjMatGraph.h(184,18): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+      C:\Users\ser00\source\repos\Lec11.AdjMatGraph\Lec11.AdjMatGraph\AdjMatGraph.h(184,18):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\ser00\source\repos\Lec11.AdjMatGraph\Lec11.AdjMatGraph\AdjMatGraph.h(179,11): warning C4101: 'val' :참조되지 않은 지역 변수입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\ser00\source\repos\Lec11.AdjMatGraph\Lec11.AdjMatGraph\main.cpp(5,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Lec11.AdjMatGraph.vcxproj -> C:\Users\ser00\source\repos\Lec11.AdjMatGraph\x64\Debug\Lec11.AdjMatGraph.exe
